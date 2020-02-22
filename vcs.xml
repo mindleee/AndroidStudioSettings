@@ -26,6 +26,10 @@
           <option name="url" value="http://gitlab.24onlines.top" />
           <option name="userName" value="lmd" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.guichengyongjun.com" />
+          <option name="userName" value="mingde" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace/self" />
