@@ -26,10 +26,8 @@
       <emptyLine />
     </value>
   </option>
-  <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
-  </AndroidXmlCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="SMART_EDIT_TABLES" value="true" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <XML>
