@@ -6,7 +6,8 @@
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQLite" />
-      <removed_mapping ext="so" type="UNKNOWN" />
+      <removed_mapping ext="so" approved="true" type="UNKNOWN" />
+      <removed_mapping ext="so" approved="true" type="UNKNOWN" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
