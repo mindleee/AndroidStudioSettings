@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/menu/bpm_bs_functions.xml" value="0.1" />
         <entry key="app/src/main/res/menu/pedometer_functions.xml" value="0.1" />
         <entry key="mio/src/main/res/layout/activity_language.xml" value="0.1" />
+        <entry key="mio/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
