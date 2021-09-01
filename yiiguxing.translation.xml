@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sealing" />
       <item value="shader" />
       <item value="tack Surplus" />
       <item value="tack" />
@@ -46,6 +47,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619429278319" />
+    <option name="lastTrimTime" value="1630486831638" />
   </component>
 </application>
