@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Partner" />
+      <item value="Agent" />
       <item value="Partne" />
       <item value="Sealing" />
       <item value="shader" />
