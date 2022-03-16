@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contain" />
       <item value="idle" />
       <item value="Threshold" />
       <item value="Obsolete" />
@@ -47,13 +48,13 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630922292490" />
+    <option name="lastTrimTime" value="1647421452112" />
   </component>
 </application>
