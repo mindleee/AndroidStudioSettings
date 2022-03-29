@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Range" />
       <item value="Descending" />
       <item value="ecg" />
       <item value="Tiny" />
@@ -52,14 +53,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648003031238" />
+    <option name="lastTrimTime" value="1648562427645" />
   </component>
 </application>
