@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="minus" />
       <item value="Range" />
       <item value="Descending" />
       <item value="ecg" />
@@ -53,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
       </map>
