@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mechanics" />
       <item value="split Track" />
       <item value="minus" />
       <item value="Range" />
@@ -50,12 +51,11 @@
       <item value="sealed" />
       <item value="coroutines" />
       <item value="Granularity" />
-      <item value="CONTINUOUS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
       </map>
