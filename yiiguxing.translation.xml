@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="GRS" />
+      <item value="Stereo" />
       <item value="manual" />
       <item value="Repeat" />
       <item value="SDNN" />
@@ -49,20 +51,19 @@
       <item value="dimension" />
       <item value="Opeartion" />
       <item value="basin" />
-      <item value="s Present" />
-      <item value="internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="50" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649211233051" />
+    <option name="lastTrimTime" value="1649668503874" />
   </component>
 </application>
