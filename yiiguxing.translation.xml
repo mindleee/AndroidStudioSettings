@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="balance" />
+      <item value="roll" />
+      <item value="pitch" />
+      <item value="inclination" />
       <item value="Painter" />
       <item value="volume" />
       <item value="GRS" />
@@ -47,15 +51,11 @@
       <item value="Free Movement" />
       <item value="Elliptical" />
       <item value="Volleyball" />
-      <item value="Badminton" />
-      <item value="invalid" />
-      <item value="invalid count" />
-      <item value="dimension" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="1" />
