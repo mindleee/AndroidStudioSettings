@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decimal" />
       <item value="Legend" />
       <item value="Granularity" />
       <item value="calibrating" />
@@ -50,12 +51,11 @@
       <item value="Cycling" />
       <item value="Spinning Bike" />
       <item value="Cricket" />
-      <item value="Normal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="1" />
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650782210599" />
+    <option name="lastTrimTime" value="1652855029024" />
   </component>
 </application>
