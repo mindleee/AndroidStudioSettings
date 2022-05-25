@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXACTLY" />
       <item value="Scatter" />
       <item value="corrupted" />
       <item value="Ratio" />
@@ -50,12 +51,11 @@
       <item value="Code Sub" />
       <item value="Companion" />
       <item value="Expose" />
-      <item value="summary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="1" />
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652855029024" />
+    <option name="lastTrimTime" value="1653459022301" />
   </component>
 </application>
