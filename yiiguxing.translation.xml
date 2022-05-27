@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Balance" />
+      <item value="Roll" />
+      <item value="Pitch" />
       <item value="balance" />
       <item value="roll" />
       <item value="pitch" />
@@ -48,14 +51,11 @@
       <item value="tack Surplus" />
       <item value="tack" />
       <item value="Surplus" />
-      <item value="Code Sub" />
-      <item value="Companion" />
-      <item value="Expose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="1" />
