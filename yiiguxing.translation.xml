@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pulse" />
       <item value="Relax" />
       <item value="Scheme" />
       <item value="longitude" />
@@ -50,12 +51,11 @@
       <item value="Agent" />
       <item value="Partne" />
       <item value="Sealing" />
-      <item value="shader" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="1" />
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654138528709" />
+    <option name="lastTrimTime" value="1656321474512" />
   </component>
 </application>
