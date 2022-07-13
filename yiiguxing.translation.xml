@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exponent" />
       <item value="Decimal" />
       <item value="Pulse" />
       <item value="Relax" />
@@ -50,12 +51,11 @@
       <item value="Partner" />
       <item value="Agent" />
       <item value="Partne" />
-      <item value="Sealing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="1" />
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656321474512" />
+    <option name="lastTrimTime" value="1657698382188" />
   </component>
 </application>
