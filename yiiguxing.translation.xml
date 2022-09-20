@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="voluntariness" />
       <item value="period" />
       <item value="Continue" />
       <item value="exponent" />
@@ -50,12 +51,11 @@
       <item value="Threshold" />
       <item value="Obsolete" />
       <item value="Delicate" />
-      <item value="Partner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="1" />
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660031653096" />
+    <option name="lastTrimTime" value="1663665461077" />
   </component>
 </application>
