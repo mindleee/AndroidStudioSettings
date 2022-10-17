@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine writesocket" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine writesocket" />
+        <option value="package:mine writeresult" />
         <option value="package:mine" />
+        <option value="package:mine write socke" />
+        <option value="package:mine write socket" />
+        <option value="package:mine " />
+        <option value="package:mine write result" />
+        <option value="package:mine write " />
+        <option value="package:mine write socket " />
       </list>
     </option>
   </component>
