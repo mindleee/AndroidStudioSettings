@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="19bbe35b" />
+          </Key>
+        </key>
+        <name value="QUALCOMM Bengal for arm" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="cda6a185" />
           </Key>
         </key>
@@ -50,17 +61,6 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="1abb0857" />
-          </Key>
-        </key>
-        <name value="QUALCOMM Bengal for arm" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="19bbe35b" />
           </Key>
         </key>
         <name value="QUALCOMM Bengal for arm" />
