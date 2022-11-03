@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine remind size" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine remind size" />
         <option value="package:mine" />
         <option value="package:mine start--cause" />
-        <option value="package:mine " />
         <option value="package:mine check can start" />
         <option value="ecg-hub" />
         <option value="package:mine  http://106.75.21.252:8080" />
