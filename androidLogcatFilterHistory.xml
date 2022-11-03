@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine start--cause" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine start--cause" />
         <option value="package:mine " />
         <option value="package:mine check can start" />
         <option value="package:mine" />
