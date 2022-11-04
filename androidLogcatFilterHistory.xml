@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine is connected" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is connected" />
         <option value="package:mine " />
         <option value="package:mine remind size" />
         <option value="package:mine" />
