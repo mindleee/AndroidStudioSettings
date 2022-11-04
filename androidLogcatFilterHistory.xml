@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is connected" />
+    <option name="mostRecentlyUsed" value="package:mine cause time" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine is connected" />
+        <option value="package:mine cause time" />
         <option value="package:mine " />
-        <option value="package:mine remind size" />
+        <option value="package:mine cause time " />
         <option value="package:mine" />
+        <option value="package:mine is connected" />
+        <option value="package:mine remind size" />
         <option value="package:mine start--cause" />
         <option value="package:mine check can start" />
         <option value="ecg-hub" />
@@ -21,8 +23,6 @@
         <option value="package:mine write socke" />
         <option value="package:mine write socket" />
         <option value="package:mine write result" />
-        <option value="package:mine write " />
-        <option value="package:mine write socket " />
       </list>
     </option>
   </component>
