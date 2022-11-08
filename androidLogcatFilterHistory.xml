@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine refresh ui" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine refresh ui" />
         <option value="package:mine " />
         <option value="package:mine cause time" />
         <option value="package:mine cause time " />
@@ -22,7 +23,6 @@
         <option value="package:mine writeresult" />
         <option value="package:mine write socke" />
         <option value="package:mine write socket" />
-        <option value="package:mine write result" />
       </list>
     </option>
   </component>
