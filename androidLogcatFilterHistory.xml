@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
-        <option value="package:mine LoggingHandler" />
-        <option value="package:mine refresh ui" />
         <option value="package:mine " />
+        <option value="package:mine LoggingHandler" />
+        <option value="package:mine" />
+        <option value="package:mine refresh ui" />
         <option value="package:mine cause time" />
         <option value="package:mine cause time " />
         <option value="package:mine is connected" />
