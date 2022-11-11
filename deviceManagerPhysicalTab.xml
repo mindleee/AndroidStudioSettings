@@ -8,9 +8,8 @@
             <value value="19bbe35b" />
           </Key>
         </key>
-        <name value="QUALCOMM Bengal for arm" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
