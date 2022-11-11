@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine qu" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine device info" />
         <option value="package:mine qu" />
         <option value="package:mine draw time" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine queue size" />
         <option value="package:mine line" />
         <option value="package:mine LoggingHandler" />
@@ -22,7 +23,6 @@
         <option value="package:mine getmo" />
         <option value="package:mine refresh" />
         <option value="package:mine key" />
-        <option value="package:mine checksum" />
       </list>
     </option>
   </component>
