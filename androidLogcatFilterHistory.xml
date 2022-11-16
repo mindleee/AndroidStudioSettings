@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine progress" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine progress" />
         <option value="package:mine " />
         <option value="package:mine device info" />
         <option value="package:mine qu" />
@@ -22,7 +23,6 @@
         <option value="package:mine  http://106.75.21.252:8080" />
         <option value="package:mine getmo" />
         <option value="package:mine refresh" />
-        <option value="package:mine key" />
       </list>
     </option>
   </component>
